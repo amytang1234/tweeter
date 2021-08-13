@@ -7,8 +7,8 @@ Tweeter is a simple, single-page Twitter app by using HTML, CSS, JS, jQuery and 
 ![edit a url](https://github.com/amytang1234/tweeter/blob/master/public/docs/writeTweet.png)
 
 
-![URl list](https://github.com/amytang1234/tweeter/blob/master/public/docs/writeTweet.png)
-![log in](https://github.com/amytang1234/tweeter/blob/master/public/docs/writeTweet.png)
+![URl list](https://github.com/amytang1234/tweeter/blob/master/public/docs/post.png)
+![log in](https://github.com/amytang1234/tweeter/blob/master/public/docs/tweets.png)
 Getting Started
 
 ## Get started
