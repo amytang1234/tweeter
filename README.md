@@ -6,11 +6,11 @@ This repository is the starter code for the project: Students will fork and clon
 
 
 ## Screenshots
-![edit a url](https://github.com/amytang1234/tinyapp/blob/master/docs/edit.png)
+![edit a url](https://github.com/amytang1234/tweeter/blob/master/public/docs/writeTweet.png)
 
 
-![URl list](https://github.com/amytang1234/tinyapp/blob/master/docs/urls.png)
-![log in](https://github.com/amytang1234/tinyapp/blob/master/docs/login.png)
+![URl list](https://github.com/amytang1234/tweeter/blob/master/public/docs/writeTweet.png)
+![log in](https://github.com/amytang1234/tweeter/blob/master/public/docs/writeTweet.png)
 Getting Started
 
 ## Get started
