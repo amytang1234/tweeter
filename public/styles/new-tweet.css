@@ -1,0 +1,150 @@
+.counter{
+    font-family: "Bungee",sans-serif;
+    color:black;
+    
+  
+    font-size: 0.75em;
+   
+}
+.submit {
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-direction: row;
+    padding-left: 1.5em;
+  padding-right: 1.5em;
+  font-size: 0.75em;
+}
+.title{
+    font-size: 0.75em;
+    text-align: left;
+    padding-left: 1.5em;
+    
+}
+
+.submit button {
+    background-color:#4056A1 ;
+    font-family: "Bungee",sans-serif;
+    color:#FFFFFF;
+    font: size 0.6em;
+
+}
+textarea{
+   border: 0px;
+  background-color:transparent;
+  color: #666464;
+  height: auto;
+  width:100%;
+  align-content: center;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  border-bottom: 1px solid gray;
+}
+hr {
+    width: 90%;
+    SIZE:2 ;
+    align-content: center;
+    
+}
+.container{
+    display: none;
+    width:100%;
+    text-align: center;
+    align-content: center;
+    padding-left: 1.5em;
+    padding-right: 1.5em; 
+   
+
+  }
+
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}
+.new-tweet{
+    width:100%;
+    align-content: center;
+}
+article{
+    border: 2px solid gray;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    width: 100%;
+    align-content: center;
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 220px;
+     align-content: center;
+}
+.right-corner{
+ display: flex;
+ justify-content: flex-end;
+}
+ .counter-overflow{
+     color:red;
+ }
+ div.tweet-footer-span:hover{ 
+
+     transition-property: all;
+     transition-duration: 2ms;
+     transition-timing-function: linear;
+ }
+
+ .textinput {
+     border: 1px silver solid;
+    }
+.error {
+    color:red;
+    font-size: 1em;
+    padding-left: 3em;
+     
+     
+}
+
+  
+ .posts-container{
+     width:100%;
+     align-content: center;
+     padding-left: 1.5em;
+     padding-right: 1.5em;
+     font-size: 0.75em;
+ }
+
+ .tweet-header{
+     padding-top: 1em;
+     
+    
+ }
+
+.tweet-handle {
+    font-style: italic;
+    float: right;
+}
+.tweet-content{
+    text-overflow:ellipsis;
+    width: 93%;
+    word-break: break-all;
+    padding-left: 5px;
+    
+}
+ .post-date {
+    font-size: 0.7em;
+    float: left;
+   }
+.tweet-footer{
+    width: 100%;
+    border-top: 1px solid gray;
+    padding: 5px;  
+    
+ }
+.tweet-footer-span{
+    float: right;
+  
+    
+}
+.main-show {
+    display:none;
+}
+article:hover{
+    
+    box-shadow: 5px 5px 20px;
+}
